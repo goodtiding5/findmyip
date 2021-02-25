@@ -8,6 +8,6 @@ host myip.opendns.com resolver1.opendns.com
 ```
 
 Large portion of the code is borrowed from the post in this
-[thread]: https://www.reddit.com/r/golang/comments/esus2j/specifying_dns_server_for_lookup/
+[thread](https://www.reddit.com/r/golang/comments/esus2j/specifying_dns_server_for_lookup/)
 by g-a-c.
 
